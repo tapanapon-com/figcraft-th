@@ -79,7 +79,7 @@ FigCraft TH is an independent Thai-edition preparation project for [FigCraft by 
 
 ### Features and workflow
 
-ออกแบบอินเทอร์เฟซ จัดวางองค์ประกอบ และทำต้นแบบ. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
+Design interfaces with frames, auto layout, components, styles and prototypes. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
 
 ### Downloads and installation
 
