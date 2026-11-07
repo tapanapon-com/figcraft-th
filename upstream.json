@@ -1,0 +1,37 @@
+{
+  "id": "figcraft",
+  "name": "FigCraft",
+  "repository": "https://github.com/tapanapon-com/figcraft-th",
+  "status": "documentation-only",
+  "containsApplicationSource": false,
+  "thaiVersion": null,
+  "thaiArticle": null,
+  "upstream": {
+    "repository": "https://github.com/storytold/figcraft",
+    "releaseTag": "v0.16.0",
+    "releaseUrl": "https://github.com/storytold/figcraft/releases/tag/v0.16.0",
+    "publishedAt": "2026-11-06T20:21:35Z",
+    "checkedAt": "2026-11-07T03:59:09.433727+00:00",
+    "sourceCommit": "bb4680d1b820f5dc345eaeb34ddff581a5b46017",
+    "sourceVersion": "0.15.0",
+    "macDownload": "https://github.com/storytold/figcraft/releases/download/v0.16.0/figcraft-0.16.0-macos-universal.dmg",
+    "windowsDownload": "https://github.com/storytold/figcraft/releases/download/v0.16.0/figcraft-0.16.0-windows-x64.msi",
+    "portableDownload": "https://github.com/storytold/figcraft/releases/download/v0.16.0/figcraft-0.16.0-windows-x64-portable.zip",
+    "checksums": "https://github.com/storytold/figcraft/releases/download/v0.16.0/SHA256SUMS.txt",
+    "changes": [
+      {
+        "text": "ปรับการประมวลผลข้อมูล keyed-list ในงานร่วมกันให้ใช้ดัชนีภายใน batch",
+        "source": "https://github.com/storytold/figcraft/pull/1893"
+      },
+      {
+        "text": "แจ้งปฏิเสธรูปแบบเส้นประที่ไม่ถูกต้อง แทนการทิ้งค่าบางส่วนเงียบ ๆ",
+        "source": "https://github.com/storytold/figcraft/pull/1899"
+      },
+      {
+        "text": "แก้การคงระยะกวาดของวงรีในไฟล์ .fig เมื่อมุมเริ่มต้นหมุนหลายรอบ",
+        "source": "https://github.com/storytold/figcraft/pull/1891"
+      }
+    ]
+  },
+  "versionLog": "https://tapanapon.com/one-per-craft/versions#figcraft"
+}
